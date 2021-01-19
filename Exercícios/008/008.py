@@ -1,5 +1,5 @@
-#Escreva um programa que leia um valor em metros e o exiba convertido em centímetros
-#e milímetros.
+# Escreva um programa que leia um valor em metros e o exiba convertido em centímetros
+# e milímetros.
 
 num = float(input("Digite a Medida em Metros: "))
 cent = float(num * 100)

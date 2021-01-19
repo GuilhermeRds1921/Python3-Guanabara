@@ -1,5 +1,5 @@
-#Faça um programa que leia um número Inteiro qualquer e mostre
-#na tabela a sua tabuada.
+# Faça um programa que leia um número Inteiro qualquer e mostre
+# na tabela a sua tabuada.
 
 num = int(input("Digite um Numero: "))
 print("{} * 1 = {}".format(num, num * 1))
