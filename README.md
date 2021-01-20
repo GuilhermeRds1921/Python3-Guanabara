@@ -1,2 +1,2 @@
 # Python3 Guanabara
- Exercícios do Curso em Vídeo
+Exercises by Curso em Vídeo 
