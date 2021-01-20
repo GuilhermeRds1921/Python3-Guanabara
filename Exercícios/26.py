@@ -1,0 +1,5 @@
+frase= input("Digite uma Frase qualquer: ")
+frase= frase.lower()
+print('Letra a:',frase.count('a'))
+print('Primeira pos:',frase.find('a'))
+print('Última pos:',frase.rfind('a'))
