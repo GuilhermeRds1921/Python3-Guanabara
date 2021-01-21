@@ -5,4 +5,4 @@
 alt = float(input("Digite a Altura da Parede em Metros: "))
 larg = float(input("Digite a Largura da Parede em Metros: "))
 area = float(alt * larg)
-print("Sera nescessario {} Litros de Tinta".format(area / 2))
+print("Sera nescessário {} Litros de Tinta".format(area / 2))

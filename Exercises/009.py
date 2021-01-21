@@ -1,7 +1,7 @@
 # Faça um programa que leia um número Inteiro qualquer e mostre
 # na tabela a sua tabuada.
 
-num = int(input("Digite um Numero: "))
+num = int(input("Digite um Número: "))
 print("{} * 1 = {}".format(num, num * 1))
 print("{} * 2 = {}".format(num, num * 2))
 print("{} * 3 = {}".format(num, num * 3))
