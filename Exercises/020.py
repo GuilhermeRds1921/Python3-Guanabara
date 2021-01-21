@@ -9,5 +9,5 @@ n3 = input("Digite Terceiro Nome: ")
 n4 = input("Digite Quarto Nome: ")
 lista = [n1,n2,n3,n4]
 random.shuffle(lista)
-print("A ordem de apresentaçao eh: ")
+print("A ordem de apresentaçao é: ")
 print(lista)

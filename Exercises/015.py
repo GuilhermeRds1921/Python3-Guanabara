@@ -5,4 +5,4 @@
 
 km = float(input("Quantos km percorreu?: "))
 dia = int(input("Quantos dias ele foi alugado?: "))
-print("O valor a ser pago eh: R${:.2f}".format(km * 0.15 + dia * 60))
+print("O valor a ser pago é: R${:.2f}".format(km * 0.15 + dia * 60))

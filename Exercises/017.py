@@ -7,4 +7,4 @@ from math import sqrt, pow
 ca = float(input("Informe o Cateto Adjacente: "))
 co = float(input("Informe o Cateto Oposto: "))
 hip = float(pow(ca,2) + pow(co,2))
-print("A Hipotenusa eh {:.2f}".format(sqrt(hip)))
+print("A Hipotenusa é {:.2f}".format(sqrt(hip)))

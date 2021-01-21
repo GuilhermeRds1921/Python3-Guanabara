@@ -3,11 +3,11 @@
 # tangente desse ângulo.
 
 import math
-angl = float(input("Informe o Angulo: "))
+angl = float(input("Informe o Ângulo: "))
 sen = math.sin(math.radians(angl))
 cos = math.cos(math.radians(angl))
 tan = math.tan(math.radians(angl))
-print("O Seno desse angulo eh {:.2f}".format(sen))
-print("O Cosseno desse angulo eh {:.2f}".format(cos))
-print("A Tangente desse angulo eh {:.2f}".format(tan))
+print("O Seno desse ângulo é {:.2f}".format(sen))
+print("O Cosseno desse ângulo é {:.2f}".format(cos))
+print("A Tangente desse ângulo é {:.2f}".format(tan))
 
