@@ -1,7 +1,7 @@
 # Remake the 035 challenge of the triangles,
 # adding the ability to show what type of triangle will be formed:
 # - Equilátero: all sides equal
-# - Isóceles: two equal lakes
+# - Isóceles: two equal sides
 # - Scalene: all different sides
 
 

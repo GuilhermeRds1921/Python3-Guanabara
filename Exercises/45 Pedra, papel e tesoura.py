@@ -1,4 +1,4 @@
-#
+# Develop a program that makes the computer play Jokenpô with you
 
 from random import randint
 print('\t\t\t\t\t==== Rock Paper Scissors ====')

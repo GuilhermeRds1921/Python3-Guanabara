@@ -1,5 +1,5 @@
 # The National Swimming Confederation needs a program that 
-# reads the year of birth of an athlete and shows his cataphor, 
+# reads the year of birth of an athlete and shows his Category, 
 # according to age:
 # - Up to 9 years old: Mirim
 # - Up to 14 years old: Infantil

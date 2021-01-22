@@ -1,6 +1,6 @@
-# Make a program that reads the year of birth of a young person and informs them,
+# Make a program that reads the year of birth of a young person and informs,
 # according to their age, if they are still going to join the military, 
-# if it is time to join or if it is past the time of enlistment.
+# if is time to join or if past the time of enlistment.
 # Your program should also show how much time is left or past the deadline.
 
 year = int(input('Whats year were you born? '))

@@ -1,4 +1,8 @@
-#
+# Develop a logic that reads a person's weight and height, 
+# calculates their BMI and shows their status, according to the table below:
+# - Under 18.5: Underweight                -25 to 30: Overweight
+# - Between 18.5 and 25: Ideal weight      -30 to 40: Obesity
+# - Over 40: Morbid Obesity
 
 weight = float(input('Whats your weight? (kg)'))
 height = float(input('How tall are you? (m)'))
