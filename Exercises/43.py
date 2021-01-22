@@ -1,6 +1,8 @@
+#
+
 weight = float(input('Whats your weight? (kg)'))
 height = float(input('How tall are you? (m)'))
-imc = float(weight/(height ** 2 ))
+imc = float(weight / (height ** 2 ))
 
 print('The Imc is: {:.1f}'.format(imc))
 if imc <= 18.5:
