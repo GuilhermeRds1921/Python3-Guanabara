@@ -1,3 +1,5 @@
+#
+
 num = int(input('Write a number: '))
 a = 0
 for i in range(2,num):
