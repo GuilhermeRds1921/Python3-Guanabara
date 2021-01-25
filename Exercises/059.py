@@ -1,3 +1,11 @@
+# Develop a program that reads two values and displays a menu. 
+# Your program should perform the requested operation in each case
+# [ 1 ] Sum
+# [ 2 ] Multiply
+# [ 3 ] High
+# [ 4 ] New Numbers
+# [ 5 ] Close
+
 num1 = int(input('Write the First value: '))
 num2 = int(input('Write the Second value: '))
 opt = 0
