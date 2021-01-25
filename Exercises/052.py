@@ -1,4 +1,5 @@
-#
+# Develop a program that reads an integer 
+# and tells if it is a prime number
 
 num = int(input('Write a number: '))
 a = 0
