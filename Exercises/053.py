@@ -1,3 +1,6 @@
+# Develop a program that reads any sentence 
+# and says if it is a palindrome, disregarding spaces.
+
 phrase = str(input('Write a phrase: ')).strip().upper()
 word = phrase.split()
 togheter = ''.join(word)

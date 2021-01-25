@@ -1,3 +1,6 @@
+# Develop a program that reads the weight of five people. 
+# Show which was the highest and lowest weight.
+
 bigger = 0
 smaller = 0
 for i in range(0,5):

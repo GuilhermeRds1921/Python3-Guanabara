@@ -1,3 +1,6 @@
+# Develop a program that reads the year of birth of seven people. 
+# show how many people are of age and how many are underage
+
 from datetime import date
 date = date.today().year
 a = 0
@@ -10,4 +13,4 @@ for i in range(0,7):
     else:
         b += 1
 print('{} are of age. '.format(a))
-print('{} arent of age. '.format(b))
+print('{} are underage. '.format(b))
