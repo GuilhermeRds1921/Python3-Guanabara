@@ -1,3 +1,5 @@
+
+
 num = 0
 op = 'q'
 count = 0
@@ -15,6 +17,6 @@ while op != 'N':
     count += 1
 print('The highest number is: {}'.format(higher))
 print('The lowest number is: {}'.format(lowest))
-print('The average is: {}'.format(sum/count))
+print('The average is: {}'.format(sum / count))
 
 

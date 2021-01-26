@@ -5,5 +5,5 @@ while num != 999:
     num = int(input('Write a Number: '))
     sum += num
     count += 1
-print('Foram mostrados {} '.format(count-1))
-print('E a soma foi {}'.format(sum-999))
+print('Foram mostrados {} '.format(count - 1))
+print('E a soma foi {}'.format(sum - 999))
