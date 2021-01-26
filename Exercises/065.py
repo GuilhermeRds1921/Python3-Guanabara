@@ -1,4 +1,7 @@
-
+# Develop a program that reads several integers from the keyboard.
+# Show the average of all values and which was the highest 
+# and lowest value. The program should ask the user 
+# if he wants to continue to enter values.
 
 num = 0
 op = 'q'
