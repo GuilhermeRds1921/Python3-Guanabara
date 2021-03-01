@@ -1,10 +1,10 @@
 from random import randint
 while True:
-    print('='*30)
+    print('=' * 30)
     print('\nLets Play Even or Odd! \n')
     count = 0
     while True:
-        print('='*30)
+        print('=' * 30)
         num = int(input('Choose a number: '))
         pc = randint(0,10)
         sum = num + pc
@@ -13,15 +13,14 @@ while True:
         if sum %2 == 0 and choice =='E':
             print(f'You Chose {num} and pc {pc} = {sum}')
             print('You Win!! Lets Play Again')
+
         elif sum %2 != 0 and choice == 'O':
             print(f'You Chose {num} and pc {pc} = {sum}')
             print('You Win!! Lets Play Again')
+            
         else:
             print(f'You Chose {num} and pc {pc} = {sum}')
             print('You Lose ')
             print(f'You make {count} points ')
             break
     break
-
-
-
