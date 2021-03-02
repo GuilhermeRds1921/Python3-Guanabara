@@ -1,3 +1,7 @@
+# Develop a program that plays even or odd with the computer. 
+# The game will only be stopped when the player loses, 
+# showing the total number of consecutive victories he has won at the end of the game.
+
 from random import randint
 while True:
     print('=' * 30)
